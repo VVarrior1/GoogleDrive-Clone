@@ -1,5 +1,7 @@
 # Cloud File Upload Application
 
+![File Upload App Demo](./public/image.png)
+
 A modern, full-stack file upload application built with Next.js, TypeScript, and Google Cloud Storage. Features a clean, intuitive interface with drag-and-drop functionality and real-time upload progress.
 
 ## Features
@@ -11,6 +13,12 @@ A modern, full-stack file upload application built with Next.js, TypeScript, and
 - 🎨 **Responsive Design**: Works seamlessly on desktop and mobile
 - 🔒 **Type Safe**: Full TypeScript support for better development experience
 - ⚡ **Fast**: Optimized with Next.js App Router and Turbopack
+
+## Demo
+
+![Application Interface](./public/image.png)
+
+The application provides a clean, modern interface for uploading files to Google Cloud Storage with real-time progress tracking and file management capabilities.
 
 ## Tech Stack
 
